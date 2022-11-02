@@ -1,0 +1,32 @@
+{
+    "data":[
+        {
+            "name": "Zoro",
+            "state": "No disponible",
+            "description": "Su sueño es convertirse en el mejor espadachín del mundo.",
+            "image": "zoro3.jpg_1464263998.jpg"
+
+        },
+        {
+            "name": "Kaido",
+            "state": "No disponible",
+            "description": "Fue además un aprendiz de los legendarios Piratas de Rocks durante su juventud. Fue el tercer emperador en ser mencionado...",
+            "image": "kaidou.webp"
+
+        },
+        {
+            "name": "Sanji",
+            "state": "No disponible",
+            "description":  "Es el quinto miembro de la tripulación, y el cuarto en unirse",
+            "image": "sanji.jpg"
+
+        },
+        {
+            "name": "Luffy",
+            "state": "No disponible",
+            "description": "Comió una fruta del diablo llamada fruta Gomu Gomu, que le convirtió en un hombre de goma... ",
+            "image": "luffy.webp"
+
+        }
+    ]
+}
